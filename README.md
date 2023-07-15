@@ -2,7 +2,7 @@
 home: true
 heroImage: /icon.jpg
 heroText: Sakuyark
-tagline: Website4
+tagline: Website4（项目已停，因为服务器另有他用所以关了）
 actionText: 快速上手 →
 actionLink: /guide/
 # features:
